@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
-# inputs
+# inputs params
 csv_file = "results_plate_hole_c.csv"  
 applied_load = 50000  # N (the load used in your simulation)
 output_dir = "plots"  # Folder to save plots
