@@ -18,7 +18,7 @@ hole_diameter = np.linspace(10, 50, 5)      # mm
 vertical_length = np.linspace(60, 200, 5)   # mm
 thickness = np.linspace(5, 15, 5)           # mm
 
-MAX_RUNS = None                             # limit total runs if you want
+MAX_RUNS = None                             # limit total runs
 
 
 def build_and_run():
