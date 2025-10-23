@@ -83,6 +83,7 @@ Four mesh refinement cases analyzed, demonstrating convergence:
 | 2 | 2.00 mm (Fine) | 217 | +0.9% |
 | 3 | 5.00 mm (Fine on hole) | 213 | -0.9% |
 | 4 | 3.00 mm (Fine) | 216 | +0.5% |
+
 Average FEA result: 214.75 MPa
 Theoretical prediction: 215 MPa
 **Selected mesh:** 3.00 mm (optimal balance of accuracy and computational cost)
